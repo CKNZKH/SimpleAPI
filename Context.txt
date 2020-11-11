@@ -1,0 +1,15 @@
+CI/CD Pipelines
+Creating our WEB API & Unit Projects
+Test our REST API with Postman
+Write a Unit Test for our Controller
+Create local Git Repository
+Create a .gitignore file
+Create Github remote repository and push our code
+Create a Build Pipeline on Azure DevOps
+Trigger build pipeline via CI/CD trigger
+Edit azure-pipelines.yml to run Unit Tests
+Breaking our unit tests and build pipeline
+Edit azure-pipelines.yml to package our build
+Create APIApp resource on Azure
+Create a Release Pipeline on Azure DevOps
+Deploy our API to Azure!
